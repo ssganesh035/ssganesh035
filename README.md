@@ -4,7 +4,6 @@
 - 🔭 Computer Science student at GGSIPU
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on exciting **open-source** projects
-- 🤔 I’m looking for help with new opportunities
 - 💬 Ask me about Web Technologies, Software Development, DevRel
 - 📫 How to reach me: ssganesh035@gmail.com
 <!--
