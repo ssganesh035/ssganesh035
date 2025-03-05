@@ -1,5 +1,5 @@
 ## Hi 👋, I am Sudar Selva Ganesh M
-### A passionate Developer from India
+### A passionate Software Developer from India
 
 - 🔭 Computer Science student at GGSIPU
 - 🌱 I’m currently learning MERN
